@@ -15,6 +15,6 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
 This project was supported by German Consulate General in Bengaluru till it was released as an open-source font to the use of general public.
 
 # Future Plans
-Further to this, the project has enabled **Sanchaya - https://sanchaya.org** to envison a larger **Kannada Font Revival Project**. This project will be taken forward as a FOSS project to build a much larger Karnata Typeface Family in near future. 
+Further to this, the project has enabled **Sanchaya - https://sanchaya.org** to envison a larger **Kannada Font Revival Project**. This project will be taken forward as a FOSS project to build a many more revival fonts under Karnata Typeface Family in near future. 
 
 Copyright © 2022 Prashant Pandit
