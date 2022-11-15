@@ -13,6 +13,8 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
 
 # Special Thanks
 "This project was supported by German Consulate General in Bengaluru till it was released as an open-source font to the use of general public"
-Later, you may add something like "Further to this, the project is taken forward by the Kannada computing / OFSS community"
+
+# Future Plans
+Further to this, the project has enabled **Sanchaya - https://sanchaya.org** to envison a larger **Kannada Font Revival Project**. This project will be taken forward as a FOSS project to build a much larger Karnata Typeface Family in near future. 
 
 Copyright © 2022 Prashant Pandit
