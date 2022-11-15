@@ -12,7 +12,7 @@ Karnata F Kittel font is a digital revival of an existing foundry typeface creat
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 
 # Special Thanks
-"This project was supported by German Consulate General in Bengaluru till it was released as an open-source font to the use of general public"
+This project was supported by German Consulate General in Bengaluru till it was released as an open-source font to the use of general public.
 
 # Future Plans
 Further to this, the project has enabled **Sanchaya - https://sanchaya.org** to envison a larger **Kannada Font Revival Project**. This project will be taken forward as a FOSS project to build a much larger Karnata Typeface Family in near future. 
