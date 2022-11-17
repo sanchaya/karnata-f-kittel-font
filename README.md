@@ -34,12 +34,21 @@ Further to this, the project has enabled Sanchaya - https://sanchaya.org to envi
 
 # ಗಮನಿಸಿ / Note
 
+**1**
+
 ಈ ಲಿಪಿ ವಿನ್ಯಾಸವನ್ನು ಓಸಿಆರ್ (ಆಪ್ಟಿಕಲ್ ಕ್ಯಾರೆಕ್ಟರ್ ರೆಕೊಗ್ನಿಷನ್ – ಅಚ್ಚಾದ ಅಕ್ಷರಗಳ ಗುರುತಿಸುವಿಕೆ) ತಂತ್ರಜ್ಞಾನವನ್ನು ಗಮನದಲ್ಲಿರಿಸಿಕೊಂಡು ಮರುಸೃಷ್ಟಿಸಲಾಗಿದೆ. ಓಸಿಆರ್ ನೆರವಿನಿಂದ ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾದ ಪುಸ್ತಕಗಳಿಂದ ಅಕ್ಷರಗಳನ್ನು ಗುರುತಿಸಿ ಸರ್ಚ್, ಇಂಡೆಕ್ಸಿಂಗ್ ಮುಂತಾದ ಕೆಲಸಗಳನ್ನು ಮಾಡಲು ಸಹಾಯವಾಗುವುದು. ಇದರಿಂದ ಹಳೆಯ ಮತ್ತು ಪ್ರಮುಖ ಪುಸ್ತಕಗಳ ಮೌಲ್ಯಯುತ ಖಜಾನೆಯನ್ನು ಹೆಚ್ಚು ಅರ್ಥಪೂರ್ಣವಾಗಿ ಮತ್ತು ಜನಸಾಮಾನ್ಯರಿಗೆ ಉಪಯುಕ್ತವಾಗುವಂತೆ ಡಿಜಿಟಲ್ ರೂಪಕ್ಕೆ ತರಲು ಸಾಧ್ಯವಾಗಲಿದೆ. ಇಷ್ಟಾಗಿ, ಈ ಫಾಂಟನ್ನು ವಿವಿಧ ಕಂಪ್ಯೂಟರ್ ತೆರೆಗಳ ಮೇಲೆ ಮತ್ತು ಪ್ರಿಂಟರ್‌ಗಳಲ್ಲಿ ಓದಲು ತೊಡಕಾಗದಂತೆ ಮತ್ತು ಸ್ಪಷ್ಟವಾಗಿರುವಂತೆ ಮತ್ತಷ್ಟು ಪರೀಕ್ಷೆಗಳಿಗೆ ಒಳಪಡಿಸಲಾಗುವುದು. ಆಗ ಈ ಫಾಂಟು ಎಲ್ಲ ಬಗೆಯ ಡಿಟಿಪಿ ಮತ್ತು ಡಿಸೈನ್ ಅಗತ್ಯಗಳನ್ನು ಪೂರೈಸಬಲ್ಲುದು. ಸದ್ಯಕ್ಕೆ ಫಾಂಟನ್ನು ಉಪಯೋಗಿಸಿ ಸಂಯುಕ್ತಾಕ್ಷರಗಳನ್ನು ಬಳಸುವಾಗ ಕೆಲವೊಂದು ತೊಡಕುಗಳು ಕಂಡುಬರಬಹುದು. ಆದ್ದರಿಂದ ಇದರ ಬಗ್ಗೆ ಬಳಕೆದಾರರು ಎಚ್ಚರದಿಂದಿದ್ದು, ತೊಂದರೆಗಳು ಕಂಡುಬಂದಲ್ಲಿ ನಮ್ಮ ಗಮನಕ್ಕೆ ತರುವುದು. ನಾವು ಹೀಗೆ ಸಂಗ್ರಹವಾದ ತೊಂದರೆಗಳನ್ನು ಮುಂಬರುವ ಆವೃತ್ತಿಗಳಲ್ಲಿ ನಿವಾರಿಸಿ ಬಿಡುಗಡೆ ಮಾಡುತ್ತೇವೆ.
 
 ಹಾಗೆಯೇ ಮೈಕ್ರೋಸಾಫ್ಟ್ ವಿಂಡೋಸ್, ವರ್ಡ್, ಅಡೋಬಿ ಫೋಟೋಶಾಪ್, ಇನ್‌ಡಿಸೈನ್, ನುಡಿ ಕೀಬೋರ್ಡ್ ಮುಂತಾದ ತಂತ್ರಾಶಗಳನ್ನು ಬಳಸುವವರು ಆದಷ್ಟು ಹೊಸ ಆವೃತ್ತಿಗಳನ್ನು ಬಳಸುತ್ತಿದ್ದರೆ ಈ ಫಾಂಟನ್ನು ಅವುಗಳಲ್ಲಿ ಹೆಚ್ಚಿನಂಶ ಯಾವುದೇ ತೊಂದರೆಗಳಿಲ್ಲದೆ ಬಳಸಬಹುದು. ಈಗಾಗಲೇ ಲಭ್ಯವಿರುವ ಕನ್ನಡದ ಯುನಿಕೋಡ್ ಫಾಂಟುಗಳು ನೀವು ಬಳಸುವ ತಂತ್ರಾಂಶಗಳಲ್ಲಿ ಸರಿಯಾಗಿ ಕಾಣುತ್ತಿದೆ ಎಂದಾದರೆ ಈ ಫಾಂಟು ಕೂಡ ಸರಿಯಾಗಿಯೇ ಕಾಣಲಿದೆ.
 
 This typeface has been revived mainly keeping the OCR (Optical Character Recognition) technology in mind. OCR is supposed to enable extraction of text from scanned books, so that the searching, indexing, etc., can be carried out on the book. This will enable a valuable repository of old & important books to be digitized in a more meaningful & useful way to the general public. That said, the font will be thoroughly tested for its legibility & readability on various types of display devices & printers. Thus, the typeface can be useful for all word processing & design needs. As of now, however, the typeface might have issues in some rare cases with regard to complex character rendering. Hence, be cautious while using it & report to us, if you find any such anomalies. We shall try to classify them, work further to fix those issues & release subsequent versions.
+
 Those who use Microsoft Windows, Word, Adobe Photoshop, Indesign, Nudi keyboard etc., if the versions are up-to-date, then there will not be much issues while using this font. If already available Unicode fonts are rendering properly, this font will also render properly.
+
+**2**
+
+ಈ ಫಾಂಟು ಬೋಲ್ಡ್ ಮತ್ತು ಇಟ್ಯಾಲಿಕ್ಸ್ ಶೈಲಿಯನ್ನು ಒಳಗೊಂಡಿಲ್ಲ. ಹಾಗಾಗಿ, ಈ ಶೈಲಿಗಳನ್ನು ಬಳಸಿದರೆ ಅಕ್ಷರಗಳು ಸರಿಯಾಗಿ ಮೂಡದೆ ಇರಬಹುದು.
+
+This font doesn't include BOLD & ITALICS styles within. Hence, if these styles are applied from within the software, it might not render properly.
 
 # ಉದಾಹರಣೆಗಳು / Examples
 
