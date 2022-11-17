@@ -4,7 +4,7 @@
 
 ‘ಕರ್ಣಾಟ ಎಫ್ ಕಿಟೆಲ್’ ಎಂಬ ಹೆಸರಿನಲ್ಲಿ ‘ಕರ್ಣಾಟ’ ಎಂಬುದು ಫಾಂಟಿನ ಕುಟುಂಬವನ್ನು ಮತ್ತು ‘ಎಫ್ ಕಿಟೆಲ್’ ಎಂಬುದು ಶೈಲಿಯ ಹೆಸರನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಮುಂಬರುವ ದಿನಗಳಲ್ಲಿ ಇದೇ ‘ಕರ್ಣಾಟ’ ಫಾಂಟ್ ಕುಟುಂಬದಿಂದ ಇನ್ನಷ್ಟು ಹಳೆಯ ಲಿಪಿ ವಿನ್ಯಾಸಗಳನ್ನು ಡಿಜಿಟಲ್ ವೇದಿಕೆಗಳಿಗಾಗಿ ಮರುಸೃಷ್ಟಿ ಮಾಡಿ ಬಿಡುಗಡೆ ಮಾಡಲಾಗುವುದು.
 
-ಯೋಜನೆಯ ನೇತೃತ್ವ: ಪ್ರಶಾಂತ್ ಪಂಡಿತ್, ಗ್ರಾಫಿಕ್ಸ್ ನೆರವು: ಸಚಿನ್ ಶೆಟ್ಟಿ, ತಾಂತ್ರಿಕ ನೆರವು: ಸತೀಶ್ ಎ.ಜಿ.
+**ಯೋಜನೆಯ ನೇತೃತ್ವ:** ಪ್ರಶಾಂತ್ ಪಂಡಿತ್, **ಗ್ರಾಫಿಕ್ಸ್ ನೆರವು:** ಸಚಿನ್ ಶೆಟ್ಟಿ, **ತಾಂತ್ರಿಕ ನೆರವು: ** ಸತೀಶ್ ಎ.ಜಿ.
 
 ‘Karnata F Kittel’ font is a digital revival of an existing foundry typeface created in erstwhile Basel Mission Press Mangalore between 1830-1900. This font is an attempt to re-create the typeface that resembles a lot with the ‘Kannada Long primer No 2’ which was supposedly created with the supervision of master founder George Plebst at Basel Mission Press, Mangalore (no documentation found yet). The font has been named after lexicographer, linguist & philologist Ferdinand Kittel (1832-1904) as a mark of honour to his immense scholarly contribution to the Kannada language.
 
@@ -14,7 +14,7 @@ Project Head: Prashant Pandit, Graphics Support: Sachin Shetty, Technical Suppor
 
 ![karnata-f-kittel-font](https://user-images.githubusercontent.com/115216/201533413-fd41b1c6-81c3-484d-b5d3-27395bb2c1d9.jpeg)
 
-#ಪರವಾನಿಗೆ / License
+# ಪರವಾನಿಗೆ / License
 
 ಈ ಫಾಂಟ್ ತಂತ್ರಾಶವನ್ನು ಎಸ್ಐಎಲ್ ಓಪನ್ ಫಾಂಟ್ ಲೈಸೆನ್ಸ್, ಆವೃತ್ತಿ 1.1 ನ ಅಡಿಯಲ್ಲಿ ಬಿಡುಗಡೆಮಾಡಲಾಗಿದೆ. ಈ ಪರವಾನಿಗೆಯ ಪೂರ್ಣಪಾಠವನ್ನು ಕೆಳಗೆ ಕೊಡಲಾಗಿದ್ದು, ಸಾಮಾನ್ಯವಾಗಿ ಕೇಳಲ್ಪಡುವ ಪ್ರಶ್ನೋತ್ತರಗಳೊಂದಿಗೆ ಇಲ್ಲಿಯೂ ಲಭ್ಯವಿದೆ: http://scripts.sil.org/OFL
 
@@ -78,8 +78,9 @@ Those who use Microsoft Windows, Word, Adobe Photoshop, Indesign, Nudi keyboard 
 ರಾಜನ್, ಮಾರನ್, ಜಂಕ್ಷನ್
 ರಾಜನ್‍, ಮಾರನ್‍, ಜಂಕ್ಷನ್‍
 
-ಕಾಪಿರೈಟ್ © 2022 ಪ್ರಶಾಂತ್ ಪಂಡಿತ್
-Copyright © 2022 Prashant Pandit
+**ಕಾಪಿರೈಟ್ © 2022** ಪ್ರಶಾಂತ್ ಪಂಡಿತ್
+
+**Copyright © 2022** Prashant Pandit
 
 # Read me content in Kittel Font as an Image:
 
